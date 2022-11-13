@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Steak
+Favorite musician/band: Ben E. King
+Favorite movie: Game Of Thrones
+Requested grade in the course: 100
